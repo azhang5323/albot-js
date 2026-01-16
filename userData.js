@@ -52,48 +52,7 @@ module.exports = {
               "runScript": "ranger.js",
               "server": SERVER
           }, // */
-          /* {
-              "characterName": "Anony",
-              "characterId": "5130368149094400",
-              "runScript": SCRIPT,
-              "server": SERVER
-          }, // */
-          /* {
-              "characterName": "Malthael",
-              "characterId": "5678553665896448",
-              "runScript": SCRIPT,
-              "server": SERVER
-          }, // */
-          /* {
-              "characterName": "Boismon",
-              "characterId": "5760997546524672",
-              "runScript": SCRIPT,
-              "server": SERVER
-          }, // */
-          /* {
-              "characterName": "Firenus",
-            "characterId": "6389196039127040",
-              "runScript": "Crab.js",
-              "server": "EU II"
-          }, // */
-          /* {
-              "characterName": "Malthael",
-              "characterId": "5678553665896448",
-              "runScript": "CrabZap.js",
-              "server": "US I"
-          }, // */
-          /* {
-              "characterName": "Daedulaus",
-              "characterId": "5826105459081216",
-              "runScript": "Crab.js",
-              "server": "EU II"
-          }, // */
-          /* {
-              "characterName": "Mage40",
-              "characterId": "5541032182153216",
-              "runScript": "default.js",
-              "server": "EU I"
-          } // */
+        
       ]
       
       if(!RUN_MERCH) {
