@@ -29,27 +29,27 @@ module.exports = {
       }
       let BOTS = [
           {
-              "characterName": "AriaHarper",
+              "characterName": "Bonjour",
               "characterId": "5513766260178944",
-              "runScript": "BScorpAngyMerch.js",
+              "runScript": "merchant.js",
               "server": "US III"
           }, // */
           {
-              "characterName": "Rael",
+              "characterName": "trololol",
               "characterId": "6011174247202816",
-              "runScript": SCRIPT, 
+              "runScript": "priest.js", 
               "server": SERVER
           }, // */
           {
-              "characterName": "Geoffriel",
+              "characterName": "YTFAN",
               "characte rId": "5178085749030912",
-              "runScript": SCRIPT,
+              "runScript": "mage.js",
               "server": SERVER
           }, // */
           {
-              "characterName": "Raelina",
+              "characterName": "derped",
               "characterId": "5931316711784448",
-              "runScript": SCRIPT,
+              "runScript": "ranger.js",
               "server": SERVER
           }, // */
           /* {
